@@ -20,6 +20,13 @@ Os pinos do Arduino são conectados ao 74HC595 da seguinte forma:
 
 Os LEDs são conectados às saídas do 74HC595.
 
+![Captura de tela 2024-09-30 145947](https://github.com/user-attachments/assets/4347fdf8-e211-4823-9fbf-caf1e378fd23)
+
+![Captura de tela 2024-09-30 150016](https://github.com/user-attachments/assets/244ea067-8921-4eb7-90d8-a0d333698dba)
+
+![Captura de tela 2024-09-30 150043](https://github.com/user-attachments/assets/7707c1dc-f163-435f-8671-49e4f35cdb05)
+
+
 ## Código
 
 O código Arduino é responsável por controlar a sequência de iluminação dos LEDs. Ele utiliza um array booleano para representar o estado de cada LED (ligado ou desligado) e implementa 16 diferentes efeitos de iluminação, descritos abaixo:
