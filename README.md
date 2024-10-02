@@ -71,3 +71,5 @@ O código Arduino é responsável por controlar a sequência de iluminação dos
 ## Licença
 
 Este projeto foi desenvolvido para fins educacionais e pode ser modificado e distribuído livremente.
+
+## TESTE
